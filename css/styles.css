@@ -9,6 +9,12 @@ body {
     color: red;
 }
 
+.byline {
+    font-size: 14px;
+    font-style: oblique;
+    color: hotpink
+}
+
 label {
     display: block;
     font-size: 20px;
